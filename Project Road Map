@@ -1,7 +1,7 @@
 #these will be possible code bases pasted in this thread to work off of for a basic simulation.
 
 https://opensource.com/article/19/11/simulate-gravity-python
-
+https://www.thanassis.space/gravity.html
 
 # the simulation window will need to be large enough to hold multiple objects:
 WIDTH, HEIGHT = 900, 600
