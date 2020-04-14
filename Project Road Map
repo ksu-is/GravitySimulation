@@ -2,7 +2,8 @@
 
 https://opensource.com/article/19/11/simulate-gravity-python
 https://www.thanassis.space/gravity.html
+Thanassis is too complicated but the simulation window is a complex version of what I am shooting for.
 
-# the simulation window will need to be large enough to hold multiple objects:
-WIDTH, HEIGHT = 900, 600
-WIDTHD2, HEIGHTD2 = WIDTH/2., HEIGHT/2.
+Next Step: Building python window that can display a circle as an object.
+
+Then: Create a particle class.
