@@ -60,8 +60,8 @@ def collide(p1, p2):
         p1.y -= math.cos(angle) * overlap
         p2.x -= math.sin(angle) * overlap
         p2.y += math.cos(angle) * overlap
-
-"""def GForce(a): 
+#use g force in the actual particle is an option, either define individual particles (sun and planets) or create a random generated particle option
+def GForce(a): 
         forceX=0
         forceY=0
         for x in my_particles: #loop through all particles
@@ -75,7 +75,7 @@ def collide(p1, p2):
                 F = (G * a.mass * b.mass) / (distanceSquared+(EPS*EPS))
                 forceX+=F*distancex/distance
                 forceY+=F*distancey/distance
-        return [forceX,forceY]"""
+        return [forceX,forceY]
 
 
 class Particle(object):
