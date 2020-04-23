@@ -9,3 +9,5 @@ Next Step: Building python window that can display a circle as an object.
 Then: Create a particle class.
 
 I ended up hard coding the orbital patterns of our solar system because gravitational constant was too large to create within python based on my current knowledge.
+
+codebase.py is to show my failed gravitational expiriment, however, code.py is a sample hardcoded version of our solar system.
